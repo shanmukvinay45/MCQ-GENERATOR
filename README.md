@@ -1,0 +1,1 @@
+You can create quizzes by providing a file and specifying the number of questions and difficulty level. The system will then generate questions based on the content of the file, tailored to the difficulty level you choose.
