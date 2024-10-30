@@ -1,4 +1,4 @@
-# Biology MCQ Generator with Quiz Complexity Evaluator
+#  MCQ Generator with Quiz Complexity Evaluator
 
 This project leverages LangChain and OpenAI's GPT-3.5 to automatically generate multiple-choice questions (MCQs) from given text, evaluate their complexity, and fine-tune them to match the cognitive level of the target audience. The tool reads biology content from a PDF or text file, generates MCQs, evaluates the quiz difficulty, and outputs a refined quiz with expert adjustments to enhance learning engagement.
 
